@@ -4,7 +4,8 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /*
- * main - Prints random number and states whether it is positive, negative, or zero.
+ * main - Prints random number and states whether 
+ * it is positive, negative, or zero.
  *
  * Return: Always 0
  */
